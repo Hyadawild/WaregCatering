@@ -5,6 +5,7 @@ Catatan: Pastikan Anda telah menginstal ketergantungan kode asli [di sini](https
 1. Git Bash (https://git-scm.com/downloads) optional jika cmd dan powershell bisa
 2. Node Js (https://nodejs.org/en)
 3. vs code
+4. expo go (play store atau app store)
 
 ### Untuk melihat pratinjau dan menjalankan proyek di perangkat Anda:
 1. Buka folder proyek di <u>Visual Studio Code</u>.
